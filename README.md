@@ -1,6 +1,5 @@
 
 http://goodbest.github.io/GoogleNewLogo
-===
 
 forked from:
 
