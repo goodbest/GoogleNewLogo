@@ -1,6 +1,8 @@
-haha
-====
 
-蛤蛤体生成器
+http://goodbest.github.io/GoogleNewLogo
+===
 
-http://dkwingsmt.github.io/haha
+forked from:
+
+>蛤蛤体生成器
+>http://dkwingsmt.github.io/haha
